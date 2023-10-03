@@ -1,4 +1,4 @@
-# IMDB Movie Analysis Dashboard
+# IMDB Movie Analysis
 
 ## Business Problem
 
